@@ -1,0 +1,19 @@
+::ng-deep #gridContainer .myClass {  
+   vertical-align: middle!important;  
+}
+
+::ng-deep .dx-cell-focus-disabled {  
+   text-align: center!important;
+   background-color: lightgray;
+}  
+
+::ng-deep .dx-datagrid-headers {  
+   text-align: center!important;
+}  
+
+::ng-deep .dx-datagrid-headers .dx-datagrid-text-content {  
+   text-align: center!important;
+   font-size: small;
+   font-weight: bold;
+   color: black;
+}  
